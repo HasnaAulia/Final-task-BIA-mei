@@ -41,7 +41,8 @@ ORDER BY
 
 ## Challenges 4 (Data Visualization)
 Membuat visualisasi dari data pada master table yang sudah dibuat sebelumnya
-![image](https://github.com/HasnaAulia/Final-task-BIA-mei/assets/81562096/b4607447-8f18-4aba-b576-4a0fe12b706b)
+![image](https://github.com/HasnaAulia/Final-task-BIA-mei/assets/81562096/4992727c-f87f-4343-a7c6-48b1035a757d)
+
 Dashboard Interaktif dapat dilihat pada [looker studio] (https://lookerstudio.google.com/s/hpwd-FZzkFQ)
 
 ## Challenges 5
