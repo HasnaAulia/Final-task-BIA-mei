@@ -1,4 +1,4 @@
-![image](https://github.com/HasnaAulia/Final-task-BIA-mei/assets/81562096/b2ad142e-08ec-4bb5-a792-52daf4295258)# [Final Task] Digital User Churn Dashboard
+# [Final Task] Digital User Churn Dashboard
 
 ## Challenges 1 (Primary Key)
 Menentukan masing-masing primary key pada 4 dataset penjualan
